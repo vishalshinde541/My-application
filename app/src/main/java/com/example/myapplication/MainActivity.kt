@@ -46,3 +46,4 @@ fun GreetingPreview() {
 }
 
 // checking the commit flow
+// checking second time git commit flow for user name confirmation
