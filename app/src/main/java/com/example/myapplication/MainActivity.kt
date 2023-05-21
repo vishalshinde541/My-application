@@ -44,3 +44,5 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+// checking the commit flow
